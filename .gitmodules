@@ -1,4 +1,0 @@
-[submodule "kacang"]
-	path = kacang
-	url = https://github.com/hujepian/kacang.git
-	branch = master
