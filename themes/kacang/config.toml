@@ -1,0 +1,25 @@
+title = "Petani Kode"
+baseurl = "https://www.petanikode.com/"
+
+# Agar front-matter pakai format YAML
+MetaDataFormat = "yaml"
+
+# untuk apply temanya
+themesDir = "themes"
+theme = "kacang"
+
+# Shortname disqus, silahkan sesuaikan
+DisqusShortname = "petanikode"
+
+# Untuk Google Analytic, silahkan sesuikan
+googleAnalytics = "UA-80517197-1" 
+
+# Untuk deskripsi tag meta di homepage
+description = "Blog Programmer pengguna Linux"
+
+# Biodata Author
+[author]
+    name = "Ardianta Pargo"
+    homepage = "https://twitter.com/ardiantapargo"
+    bio = "Pengamat Langit"
+    image = "https://lh5.googleusercontent.com/-h2tLsyijw8Q/AAAAAAAAAAI/AAAAAAAACys/WBpjN_34z3o/s32-c/photo.jpg"
