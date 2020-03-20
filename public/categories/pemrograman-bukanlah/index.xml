@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pemrograman -bukanlah on petai</title>
+    <link>http://example.org/categories/pemrograman-bukanlah/</link>
+    <description>Recent content in Pemrograman -bukanlah on petai</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 Mar 2020 04:21:27 +0700</lastBuildDate>
+    
+	<atom:link href="http://example.org/categories/pemrograman-bukanlah/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Malam jumat menjelang subuh</title>
+      <link>http://example.org/post/mala-juma-psotingan-tes/</link>
+      <pubDate>Fri, 13 Mar 2020 04:21:27 +0700</pubDate>
+      
+      <guid>http://example.org/post/mala-juma-psotingan-tes/</guid>
+      <description>Kabar gembira bagi para front-end developer, Bootstrap 4 kini sudah dirilis versi Beta-nya.
+Artinya sebentar lagi akan memasuki versi final. Sebenarnya saya berencana ingin mencobanya setelah mencapai versi final atau stabil.
+Namun, kerena penasaran… jadinya ya dicoba aja sekarang .Mungkin nanti bisa dikembangkan untuk template blog Hugo, Wordpress, dan Blogger.
+Saya juga berencana menjadikan hasil percobaan ini sebagai referensi untuk pengembangan template Petani Kode selanjutnya.Tulisan ini bukan tutorial, tapi hanya sharingsaja.</description>
+    </item>
+    
+  </channel>
+</rss>
