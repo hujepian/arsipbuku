@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bacot on petai</title>
+    <link>http://example.org/tags/bacot/</link>
+    <description>Recent content in bacot on petai</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 13 May 2020 11:04:51 +0700</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/bacot/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bapak Kos Menyapu Lagi</title>
+      <link>http://example.org/post/bapak-kos-menyapu-lagi/</link>
+      <pubDate>Wed, 13 May 2020 11:04:51 +0700</pubDate>
+      
+      <guid>http://example.org/post/bapak-kos-menyapu-lagi/</guid>
+      <description>pokoknya ini hanya tes doang bapak kos nyapu di bawah pohon dan saya hanya menengok dari jendela. Tugas hari ini:
+  Menulis artikel tentang markdown
+  Belajar Git di Petanikode
+  Belajar Bahasa pemrograman Rust
+  Membuat template blog dengan bootstrap
+  item 1
+  item 2
+  item 3
+  Tebal miring strikeline
+Ini Headeing Level 1 ini paragraf, bla bla bla&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

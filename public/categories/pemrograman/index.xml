@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pemrograman on petai</title>
+    <link>http://example.org/categories/pemrograman/</link>
+    <description>Recent content in Pemrograman on petai</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 Mar 2020 04:34:28 +0700</lastBuildDate>
+    
+	<atom:link href="http://example.org/categories/pemrograman/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Masih Mencoba Layout</title>
+      <link>http://example.org/post/masih-mencoba-layout/</link>
+      <pubDate>Fri, 13 Mar 2020 04:34:28 +0700</pubDate>
+      
+      <guid>http://example.org/post/masih-mencoba-layout/</guid>
+      <description>Kabar gembira bagi para front-end developer, Bootstrap 4 kini sudah dirilis versi Beta-nya.
+Artinya sebentar lagi akan memasuki versi final. Sebenarnya saya berencana ingin mencobanya setelah mencapai versi final atau stabil.
+Namun, kerena penasaran… jadinya ya dicoba aja sekarang .Mungkin nanti bisa dikembangkan untuk template blog Hugo, Wordpress, dan Blogger.
+Saya juga berencana menjadikan hasil percobaan ini sebagai referensi untuk pengembangan template Petani Kode selanjutnya.Tulisan ini bukan tutorial, tapi hanya sharingsaja.</description>
+    </item>
+    
+    <item>
+      <title>Artikel Glen</title>
+      <link>http://example.org/post/artikel-glen/</link>
+      <pubDate>Thu, 12 Mar 2020 11:32:11 +0700</pubDate>
+      
+      <guid>http://example.org/post/artikel-glen/</guid>
+      <description>Upgrade biasanya dilakukan saat ada versi terbaru yang keluar.
+Sebagai contoh:
+Saat ini saya menggunakan Linux Mint 18.2 (Sarah). Beberapa waktu yang lalu Linux Mint versti terbaru sudah keluar, yaitu versi 18.3 (Sylvia).
+Ada dua cara yang bisa dilakukan untuk upgrade Linux Mint ke versi terbaru:
+Melalui Update Manager. Melalui Perintah di Terminal. Upgrade Linux Mint melalui Update Manager Update Manager adalah program bawaan Linux Mint yang bertugas untuk mengatur update versi aplikasi dan versi Linux Mint.</description>
+    </item>
+    
+    <item>
+      <title>huje kepingin makan</title>
+      <link>http://example.org/post/artikel-glen/</link>
+      <pubDate>Thu, 12 Mar 2020 11:32:11 +0700</pubDate>
+      
+      <guid>http://example.org/post/artikel-glen/</guid>
+      <description>Deploy ke Github Page
+Nah, setelah kamu selesai membuat blog kamu dan kamu sudah yakin ingin mempublishnya, sekarang adalah saat bagi kamu untuk mendeploy blog kamu. Lalu bagaimana cara mendeploy blog yang kamu buat tadi? Caranya sangat sederhana. Kamu dapat mengikuti langkah-langkah yang ada di bawah ini.
+Pada terminal kamu, jalankan command hugo. Command ini secara otomatis akan menghasilkan sebuah folder public yang berisi file-file yang diperlukan oleh website kamu. Selanjutnya kamu pindah direktori ke folder public tersebut dengan menjalankan command cd public Setelah kamu berada di folder public, lakukan commit pada pekerjaan kamu dan push pekerjaan kamu ke repositori kamu yang ada di github.</description>
+    </item>
+    
+    <item>
+      <title>masa sih gitu</title>
+      <link>http://example.org/post/ambyar-kamu/</link>
+      <pubDate>Thu, 12 Mar 2020 11:32:11 +0700</pubDate>
+      
+      <guid>http://example.org/post/ambyar-kamu/</guid>
+      <description>Nah, setelah kamu selesai membuat blog kamu dan kamu sudah yakin ingin mempublishnya, sekarang adalah saat bagi kamu untuk mendeploy blog kamu. Lalu bagaimana cara mendeploy blog yang kamu buat tadi? Caranya sangat sederhana. Kamu dapat mengikuti langkah-langkah yang ada di bawah ini.
+Pada terminal kamu, jalankan command hugo. Command ini secara otomatis akan menghasilkan sebuah folder public yang berisi file-file yang diperlukan oleh website kamu. Selanjutnya kamu pindah direktori ke folder public tersebut dengan menjalankan command cd public Setelah kamu berada di folder public, lakukan commit pada pekerjaan kamu dan push pekerjaan kamu ke repositori kamu yang ada di github.</description>
+    </item>
+    
+    <item>
+      <title>Artikel Lain yang coba saya bikin</title>
+      <link>http://example.org/post/artikel-lain/</link>
+      <pubDate>Thu, 12 Mar 2020 11:30:10 +0700</pubDate>
+      
+      <guid>http://example.org/post/artikel-lain/</guid>
+      <description>Upgrade biasanya dilakukan saat ada versi terbaru yang keluar.
+Sebagai contoh:
+Saat ini saya menggunakan Linux Mint 18.2 (Sarah). Beberapa waktu yang lalu Linux Mint versti terbaru sudah keluar, yaitu versi 18.3 (Sylvia).
+Ada dua cara yang bisa dilakukan untuk upgrade Linux Mint ke versi terbaru:
+Melalui Update Manager. Melalui Perintah di Terminal. Upgrade Linux Mint melalui Update Manager Update Manager adalah program bawaan Linux Mint yang bertugas untuk mengatur update versi aplikasi dan versi Linux Mint.</description>
+    </item>
+    
+    <item>
+      <title>sungguh sangat hebat</title>
+      <link>http://example.org/post/kamis-ambyar/</link>
+      <pubDate>Thu, 12 Mar 2020 11:16:28 +0700</pubDate>
+      
+      <guid>http://example.org/post/kamis-ambyar/</guid>
+      <description>Upgrade biasanya dilakukan saat ada versi terbaru yang keluar.
+Sebagai contoh:
+Saat ini saya menggunakan Linux Mint 18.2 (Sarah). Beberapa waktu yang lalu Linux Mint versti terbaru sudah keluar, yaitu versi 18.3 (Sylvia).
+Ada dua cara yang bisa dilakukan untuk upgrade Linux Mint ke versi terbaru:
+Melalui Update Manager. Melalui Perintah di Terminal. Upgrade Linux Mint melalui Update Manager Update Manager adalah program bawaan Linux Mint yang bertugas untuk mengatur update versi aplikasi dan versi Linux Mint.</description>
+    </item>
+    
+  </channel>
+</rss>

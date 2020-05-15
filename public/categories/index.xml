@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on petai</title>
+    <link>http://example.org/categories/</link>
+    <description>Recent content in Categories on petai</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 13 May 2020 11:04:51 +0700</lastBuildDate>
+    
+	<atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ikan lele</title>
+      <link>http://example.org/categories/ikan-lele/</link>
+      <pubDate>Wed, 13 May 2020 11:04:51 +0700</pubDate>
+      
+      <guid>http://example.org/categories/ikan-lele/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bacot</title>
+      <link>http://example.org/categories/bacot/</link>
+      <pubDate>Wed, 13 May 2020 10:41:31 +0700</pubDate>
+      
+      <guid>http://example.org/categories/bacot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pemrograman</title>
+      <link>http://example.org/categories/pemrograman/</link>
+      <pubDate>Fri, 13 Mar 2020 04:34:28 +0700</pubDate>
+      
+      <guid>http://example.org/categories/pemrograman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pemrograman -bukanlah</title>
+      <link>http://example.org/categories/pemrograman-bukanlah/</link>
+      <pubDate>Fri, 13 Mar 2020 04:21:27 +0700</pubDate>
+      
+      <guid>http://example.org/categories/pemrograman-bukanlah/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
