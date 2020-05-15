@@ -3,8 +3,53 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://example.org/tags/bacot/</loc>
+    <lastmod>2020-05-13T11:04:51+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/bapak-kos-menyapu-lagi/</loc>
+    <lastmod>2020-05-13T11:04:51+07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://example.org/categories/</loc>
-    <lastmod>2020-03-13T04:34:28+07:00</lastmod>
+    <lastmod>2020-05-13T11:04:51+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/ikan-lele/</loc>
+    <lastmod>2020-05-13T11:04:51+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/</loc>
+    <lastmod>2020-05-13T11:04:51+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/</loc>
+    <lastmod>2020-05-13T11:04:51+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/</loc>
+    <lastmod>2020-05-13T11:04:51+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/bacot/</loc>
+    <lastmod>2020-05-13T10:41:31+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/korona-di-bulan-puasa/</loc>
+    <lastmod>2020-05-13T10:41:31+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/mujair/</loc>
+    <lastmod>2020-05-13T10:41:31+07:00</lastmod>
   </url>
   
   <url>
@@ -18,17 +63,7 @@
   </url>
   
   <url>
-    <loc>http://example.org/post/</loc>
-    <lastmod>2020-03-13T04:34:28+07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://example.org/tags/python/</loc>
-    <lastmod>2020-03-13T04:34:28+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/</loc>
     <lastmod>2020-03-13T04:34:28+07:00</lastmod>
   </url>
   
@@ -64,16 +99,6 @@
   
   <url>
     <loc>http://example.org/post/ambyar-kamu/</loc>
-    <lastmod>2020-03-12T11:32:11+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/</loc>
-    <lastmod>2020-03-12T11:32:11+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/artikel-glmneenen/</loc>
     <lastmod>2020-03-12T11:32:11+07:00</lastmod>
   </url>
   
