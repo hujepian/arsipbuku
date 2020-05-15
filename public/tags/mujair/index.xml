@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mujair on petai</title>
+    <link>http://example.org/tags/mujair/</link>
+    <description>Recent content in mujair on petai</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 13 May 2020 10:41:31 +0700</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/mujair/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Korona di bulan puasa</title>
+      <link>http://example.org/post/korona-di-bulan-puasa/</link>
+      <pubDate>Wed, 13 May 2020 10:41:31 +0700</pubDate>
+      
+      <guid>http://example.org/post/korona-di-bulan-puasa/</guid>
+      <description>saya kurang tahu mau nulis apa mungkin gegara korona yang sudah melanda hampir dua bulan. selama dua bulan juga, aktifitas saya terganggu.
+ngopi tidak bisa. rezeki tersendat. aktifitas lebih banyak berdiam diri. saya tak tahu, sampai kapan musti begini. di tengah ketidak pastian, kuliah berantakan, ekonomi tersendat, dan lainnya.
+pokoknya saya hanya ingin hidup normal. atau, biasa aja. bisa pulang kampung. berkukmpul dengan kawan.
+masalahnya, korona sukses menghentikan aktifitas semacam itu.</description>
+    </item>
+    
+  </channel>
+</rss>
